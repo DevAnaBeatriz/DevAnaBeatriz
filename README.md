@@ -1,4 +1,4 @@
-<h1 align="left">Hello Wordl! I'm Ana Beatriz!</h1>
+<h1 align="left">Hello World! I'm Ana Beatriz!</h1>
 
 ###
 

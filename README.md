@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="50" src="https://pt.bloggif.com/tmp/4053e33c19468bb670861c011014735f/text.gif?1684539680"  />
+  <img height="50" src="https://cdn.discordapp.com/attachments/1016933319042154526/1109286255755264031/helloworld.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img height="25" src="https://pt.bloggif.com/tmp/4053e33c19468bb670861c011014735f/text.gif?1684539533"  />
+  <img height="25" src="https://cdn.discordapp.com/attachments/1016933319042154526/1109286592654352464/skills_and_tools.gif"  />
 </div>
 
 ###
@@ -70,7 +70,9 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DevAnaBeatriz/DevAnaBeatriz/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="250" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
+</div>
 
 ###
 

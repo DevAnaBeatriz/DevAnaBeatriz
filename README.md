@@ -1,6 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Arial&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello+World%2C+I'm+Ana+Beatriz!%F0%9F%A4%97;I'm+17+years+old+%F0%9F%98%84)](https://git.io/typing-svg)
-
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Ana+Beatriz!%F0%9F%A4%97;+Welcome+to+my+profile!+%F0%9F%98%8A" alt="Typing SVG" /></a>
+</div>
 
 ###
 

@@ -1,4 +1,4 @@
-<h1 align="left">"<h1> Hello World! </h1>"</h1>
+<h1 align="left"><h1> Hello World! </h1></h1>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">"<h2> Skills and Tools </h2>"</h2>
+<h2 align="left"><h2> Skills and Tools </h2></h2>
 
 ###
 
@@ -56,7 +56,7 @@
 
 ###
 
-<h2 align="left">"<h2> Contact me </h2>"</h2>
+<h2 align="left"><h2> Contact me </h2></h2>
 
 ###
 

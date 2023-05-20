@@ -1,11 +1,12 @@
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Ana+Beatriz!%F0%9F%A4%97;+Welcome+to+my+profile!+%F0%9F%98%8A" alt="Typing SVG" /></a>
-</div>
+
+
 
 ###
 
 <div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&size=30&pause=1000&color=F7F7F7&width=435&lines=Hello%2C+I'm+Ana+Beatriz!%F0%9F%A4%97;+Welcome+to+my+profile!+%F0%9F%98%8A" alt="Typing SVG" /></a>  
+  <br clear="both">
   <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTEyMDgzYWYzMTM4NTcwZGUwYWRjNTMwNjU4NjIwYmZmNTJiMDMyMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
 

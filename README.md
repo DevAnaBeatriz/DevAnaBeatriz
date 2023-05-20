@@ -5,6 +5,20 @@
 ###
 
 <div align="center">
+  <img height="60" src="https://media.tenor.com/WkFpkcCorhoAAAAC/computer-love-my-computer.gif"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTEyMDgzYWYzMTM4NTcwZGUwYWRjNTMwNjU4NjIwYmZmNTJiMDMyMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
   <img height="25" src="https://cdn.discordapp.com/attachments/1016933319042154526/1109286592654352464/skills_and_tools.gif"  />
 </div>
 
@@ -44,6 +58,16 @@
 <br clear="both">
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAnaBeatriz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DevAnaBeatriz&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAnaBeatriz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <a href="https://www.linkedin.com/in/ana-beatriz-martins-batista/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
   </a>
@@ -53,29 +77,6 @@
   <a href="mailto:ana.batista115@etec.sp.gov.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="35" alt="microsoft-outlook logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="60" src="https://media.tenor.com/WkFpkcCorhoAAAAC/computer-love-my-computer.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img height="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTEyMDgzYWYzMTM4NTcwZGUwYWRjNTMwNjU4NjIwYmZmNTJiMDMyMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAnaBeatriz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAnaBeatriz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###

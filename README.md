@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/DevAnaBeatriz/DevAnaBeatriz/.github/workflows/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DevAnaBeatriz/DevAnaBeatriz/output/snake.svg" alt="Snake animation" />
 
 ###
 

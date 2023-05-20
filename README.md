@@ -58,7 +58,7 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/DevAnaBeatriz/DevAnaBeatriz/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
 

@@ -1,17 +1,18 @@
-<h1 align="left"><h1> Hello World! </h1></h1>
+<h1 align="left">Hello Wordl! I'm Ana Beatriz!</h1>
 
 ###
 
 <br clear="both">
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAnaBeatriz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAnaBeatriz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAnaBeatriz&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=DevAnaBeatriz&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAnaBeatriz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
 </div>
 
 ###
 
-<h2 align="left"><h2> Skills and Tools </h2></h2>
+<h2 align="left">Skills and Tools</h2>
 
 ###
 
@@ -56,7 +57,7 @@
 
 ###
 
-<h2 align="left"><h2> Contact me </h2></h2>
+<h2 align="left">Contact me :)</h2>
 
 ###
 

@@ -80,14 +80,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img height="250" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"  />
-</div>
-
-###
-
 <img src="https://raw.githubusercontent.com/DevAnaBeatriz/DevAnaBeatriz/output/snake.svg" alt="Snake animation" />
 
 ###

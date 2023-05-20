@@ -111,10 +111,4 @@
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img height="20" src="https://media.tenor.com/cG4LaXBkEiEAAAAi/line.gif"  />
-</div>
-
-###

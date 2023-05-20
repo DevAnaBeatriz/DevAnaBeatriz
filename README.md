@@ -1,22 +1,14 @@
-<h1 align="left">Hello World! I'm Ana Beatriz!</h1>
+<h1 align="center">Hello Wordl! 🤗</h1>
 
 ###
 
-<br clear="both">
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevAnaBeatriz&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="130" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=DevAnaBeatriz&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="130" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAnaBeatriz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
+  <img height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTEyMDgzYWYzMTM4NTcwZGUwYWRjNTMwNjU4NjIwYmZmNTJiMDMyMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 </div>
 
 ###
 
-<h2 align="left">Skills and Tools</h2>
-
-###
-
-<img align="right" height="60" src="https://media.tenor.com/WkFpkcCorhoAAAAC/computer-love-my-computer.gif"  />
+<h2 align="left">🛠 Language and Tools</h2>
 
 ###
 
@@ -51,6 +43,19 @@
 
 ###
 
+<p align="left">I'm a student developer looking to become a full-stack, passionate about challenges, continuous learning and creating innovative solutions. With solid front-end skills and a willingness to explore the back-end, I'm determined to build complete, robust applications and contribute to meaningful projects across multidisciplinary teams. Ready to face real-world challenges and excel as a full-stack developer.</p>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevAnaBeatriz&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="130" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DevAnaBeatriz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="130" alt="languages graph"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/DevAnaBeatriz/DevAnaBeatriz/output/snake.svg" alt="Snake animation" />
@@ -71,6 +76,18 @@
   <a href="mailto:ana.batista115@etec.sp.gov.br" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=flat" height="35" alt="microsoft-outlook logo"  />
   </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img align="right" height="60" src="https://media.tenor.com/WkFpkcCorhoAAAAC/computer-love-my-computer.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/DevAnaBeatriz/count.svg?"  />
 </div>
 
 ###

@@ -92,10 +92,6 @@
 
 ###
 
-<img align="right" height="50" src="https://img1.picmix.com/output/stamp/normal/0/6/3/6/2306360_91adf.gif"  />
-
-###
-
 <div align="left">
   <a href="https://www.linkedin.com/in/ana-beatriz-martins-batista/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />

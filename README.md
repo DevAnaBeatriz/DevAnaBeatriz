@@ -13,11 +13,6 @@
 
 ###
 
-<div align="center">
-  <img height="30" src="https://media.tenor.com/Xn6SpikfuZsAAAAi/line.gif"  />
-</div>
-
-###
 
 <br clear="both">
 
